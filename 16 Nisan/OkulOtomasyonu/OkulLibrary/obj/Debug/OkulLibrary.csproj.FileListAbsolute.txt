@@ -1,0 +1,5 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\OkulOtomasyonu\OkulLibrary\bin\Debug\OkulLibrary.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\OkulOtomasyonu\OkulLibrary\bin\Debug\OkulLibrary.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OkulOtomasyonu\OkulLibrary\obj\Debug\OkulLibrary.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OkulOtomasyonu\OkulLibrary\obj\Debug\OkulLibrary.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\OkulOtomasyonu\OkulLibrary\obj\Debug\OkulLibrary.pdb

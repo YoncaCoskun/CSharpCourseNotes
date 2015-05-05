@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<!--bu bir yorum satırıdır
+    XML(Extensible Markup Language)    
+    Genisletilebilir isaretleme Dili
+    kullanma amacı:platformlar arası veri transferi icin kullanılır.
+    
+   -- bir xml dokuman olusturuldugu zaman mutlaka bir kok eleman olusturulmalıdır.(root eleman)
+   --her xml de sadece bir root eleman olur.
+-->
+<Arabalar>
+  <!--root eleman =arabalar-->
+
+  <Araba ArabaId="1"><!--bu bir attribute(ArabaId="1")-->
+    <Marka>Audi</Marka>
+    <Model>A6</Model>
+    <Kilometre>10</Kilometre>
+    <Parcalari>
+      <Motor>1.6 CC</Motor>
+      <Sanziman>Otomatik</Sanziman>
+    </Parcalari>
+  </Araba>
+  
+  <Araba ArabaId="2">
+    <Marka>BMW</Marka>
+    <Model>E300</Model>
+    <Kilometre>50</Kilometre>
+    <Parcalari></Parcalari>
+  </Araba>
+  
+  <Araba ArabaId="3">
+    <Marka>Hyundai</Marka>
+    <Model>I40</Model>
+    <Kilometre>40</Kilometre>
+    <Parcalari />  <!--icine hic birsey yazmıcagımız anlamına geliyor-->
+  </Araba>
+
+</Arabalar>

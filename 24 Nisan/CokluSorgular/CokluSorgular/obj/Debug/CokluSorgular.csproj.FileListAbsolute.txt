@@ -1,0 +1,24 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form2.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form3.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form4.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.exe.config
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.exe
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.pdb
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.exe
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\bin\Debug\CokluSorgular.pdb
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form1.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form2.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form3.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Form4.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.Properties.Resources.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\CokluSorgular\CokluSorgular\obj\Debug\CokluSorgular.csproj.GenerateResource.Cache

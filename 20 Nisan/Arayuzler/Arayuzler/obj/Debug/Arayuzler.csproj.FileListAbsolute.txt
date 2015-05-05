@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\bin\Debug\Arayuzler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\bin\Debug\Arayuzler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\bin\Debug\Arayuzler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Arayuzler\Arayuzler\obj\Debug\Arayuzler.Form2.resources

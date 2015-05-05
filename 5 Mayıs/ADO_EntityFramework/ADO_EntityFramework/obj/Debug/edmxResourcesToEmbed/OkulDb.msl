@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OkulDbStoreContainer" CdmEntityContainer="OkulDbContainer">
+    <EntitySetMapping Name="Veliler">
+      <EntityTypeMapping TypeName="IsTypeOf(OkulDb.Veli)">
+        <MappingFragment StoreEntitySet="Veliler">
+          <ScalarProperty Name="VeliId" ColumnName="VeliId" />
+          <ScalarProperty Name="VeliAdi" ColumnName="VeliAdi" />
+          <ScalarProperty Name="VeliSoyadi" ColumnName="VeliSoyadi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,20 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindBLL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindBLL.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindDAL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindEntity.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\DbAccess.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindDAL.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindEntity.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindBLL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindBLL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindDAL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindEntity.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\DbAccess.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindDAL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\bin\Debug\NorthwindEntity.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindBLL\obj\Debug\NorthwindBLL.pdb

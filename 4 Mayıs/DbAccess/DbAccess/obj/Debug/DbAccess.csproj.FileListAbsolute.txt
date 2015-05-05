@@ -1,0 +1,5 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\DbAccess\DbAccess\bin\Debug\DbAccess.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\DbAccess\DbAccess\bin\Debug\DbAccess.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\DbAccess\DbAccess\obj\Debug\DbAccess.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\DbAccess\DbAccess\obj\Debug\DbAccess.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\DbAccess\DbAccess\obj\Debug\DbAccess.pdb

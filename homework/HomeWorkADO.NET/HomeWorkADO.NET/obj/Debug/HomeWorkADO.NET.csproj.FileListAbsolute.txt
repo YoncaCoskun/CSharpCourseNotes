@@ -1,0 +1,12 @@
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\bin\Debug\HomeWorkADO.NET.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\bin\Debug\HomeWorkADO.NET.exe
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\bin\Debug\HomeWorkADO.NET.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.exe
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.Form2.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.Form3.resources
+c:\users\yonca\documents\visual studio 2013\Projects\HomeWorkADO.NET\HomeWorkADO.NET\obj\Debug\HomeWorkADO.NET.Form4.resources

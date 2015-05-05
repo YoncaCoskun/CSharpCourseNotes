@@ -1,0 +1,13 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\bin\Debug\ValueType.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\bin\Debug\ValueType.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\bin\Debug\ValueType.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ValueType\ValueType\obj\Debug\ValueType.Form2.resources
+C:\Users\Yonca\Desktop\C#\21 Nisan\ValueType\ValueType\bin\Debug\ValueType.exe.config
+C:\Users\Yonca\Desktop\C#\21 Nisan\ValueType\ValueType\obj\Debug\ValueType.exe
+C:\Users\Yonca\Desktop\C#\21 Nisan\ValueType\ValueType\obj\Debug\ValueType.pdb

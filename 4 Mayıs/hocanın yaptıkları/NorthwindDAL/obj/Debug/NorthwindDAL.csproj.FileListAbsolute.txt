@@ -1,0 +1,7 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\bin\Debug\NorthwindDAL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\bin\Debug\NorthwindDAL.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\bin\Debug\NorthwindEntity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\bin\Debug\NorthwindEntity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\obj\Debug\NorthwindDAL.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\obj\Debug\NorthwindDAL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindDAL\obj\Debug\NorthwindDAL.pdb

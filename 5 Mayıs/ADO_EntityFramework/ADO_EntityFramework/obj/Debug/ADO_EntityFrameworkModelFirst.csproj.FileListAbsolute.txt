@@ -1,0 +1,14 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\ADO_EntityFramework.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\ADO_EntityFramework.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\ADO_EntityFramework.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFrameworkModelFirst.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFrameworkModelFirst.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFramework.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFramework.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFrameworkModelFirst.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFrameworkModelFirst.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\obj\Debug\ADO_EntityFrameworkModelFirst.Form2.resources

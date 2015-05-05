@@ -1,0 +1,23 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form2.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe.config
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.exe
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.pdb
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.exe
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\bin\Debug\ADOdisconnected.pdb
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form1.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form2.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form3.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form4.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Form5.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.Properties.Resources.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADOdisconnected\ADOdisconnected\obj\Debug\ADOdisconnected.csproj.GenerateResource.Cache

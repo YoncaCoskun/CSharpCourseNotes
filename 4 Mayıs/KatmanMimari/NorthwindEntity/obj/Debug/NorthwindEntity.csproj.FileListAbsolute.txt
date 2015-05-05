@@ -1,0 +1,10 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindEntity\obj\Debug\NorthwindEntity.pdb

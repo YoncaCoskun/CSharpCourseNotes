@@ -1,0 +1,1 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_EntityFramework\ADO_EntityFramework\bin\Debug\ADO_EntityFramework.exe.config

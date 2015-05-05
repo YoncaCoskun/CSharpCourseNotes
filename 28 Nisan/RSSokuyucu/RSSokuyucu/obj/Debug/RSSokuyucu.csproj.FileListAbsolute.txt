@@ -1,0 +1,20 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Form2.resources
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.exe.config
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.exe
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.pdb
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.exe
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\bin\Debug\RSSokuyucu.pdb
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Form1.resources
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Form2.resources
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.Properties.Resources.resources
+C:\Users\Yonca\Desktop\28 Nisan\RSSokuyucu\RSSokuyucu\obj\Debug\RSSokuyucu.csproj.GenerateResource.Cache

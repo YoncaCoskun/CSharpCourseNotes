@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\bin\Debug\Katmanlar.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\bin\Debug\Katmanlar.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\bin\Debug\Katmanlar.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\Katmanlar\obj\Debug\Katmanlar.pdb

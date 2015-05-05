@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb

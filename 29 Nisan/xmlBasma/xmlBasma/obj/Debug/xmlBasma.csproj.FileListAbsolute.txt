@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\bin\Debug\xmlBasma.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\bin\Debug\xmlBasma.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\bin\Debug\xmlBasma.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBasma\xmlBasma\obj\Debug\xmlBasma.Form2.resources

@@ -1,0 +1,15 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindDAL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindDAL.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\bin\Debug\DbAccess.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindEntity.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindEntity.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindDAL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindDAL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindEntity.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\bin\Debug\NorthwindEntity.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\NorthwindDAL\obj\Debug\NorthwindDAL.pdb

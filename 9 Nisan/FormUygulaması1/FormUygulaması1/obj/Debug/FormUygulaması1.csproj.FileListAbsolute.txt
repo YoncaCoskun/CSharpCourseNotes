@@ -1,0 +1,11 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\bin\Debug\FormUygulaması1.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\bin\Debug\FormUygulaması1.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\bin\Debug\FormUygulaması1.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.Form2.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\FormUygulaması1\FormUygulaması1\obj\Debug\FormUygulaması1.Form3.resources

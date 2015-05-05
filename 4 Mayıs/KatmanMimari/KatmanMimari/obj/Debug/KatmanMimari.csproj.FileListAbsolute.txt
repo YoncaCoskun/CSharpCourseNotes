@@ -1,0 +1,32 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.exe.config
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.Form1.resources
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.Properties.Resources.resources
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.csproj.GenerateResource.Cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\DbAccess.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindBLL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindEntity.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindDAL.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindBLL.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindEntity.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\KatmanMimari\KatmanMimari\bin\Debug\NorthwindDAL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.exe.config
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.exe
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.exe
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\KatmanMimari.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindBLL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindEntity.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindDAL.dll
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindBLL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindEntity.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\bin\Debug\NorthwindDAL.pdb
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.Form1.resources
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.Properties.Resources.resources
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.csproj.GenerateResource.Cache
+C:\Users\Yonca\Desktop\C#\Mayıs\4 Mayıs\KatmanMimari\KatmanMimari\obj\Debug\KatmanMimari.Form2.resources

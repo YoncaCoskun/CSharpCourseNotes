@@ -1,0 +1,8 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\bin\Debug\MetotDavranislari.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\bin\Debug\MetotDavranislari.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\bin\Debug\MetotDavranislari.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\obj\Debug\MetotDavranislari.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\obj\Debug\MetotDavranislari.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\obj\Debug\MetotDavranislari.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\obj\Debug\MetotDavranislari.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\MetotDavranislari\MetotDavranislari\obj\Debug\MetotDavranislari.pdb

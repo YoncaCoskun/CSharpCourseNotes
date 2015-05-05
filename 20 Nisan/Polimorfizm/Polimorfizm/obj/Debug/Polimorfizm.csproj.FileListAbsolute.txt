@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\bin\Debug\Polimorfizm.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\bin\Debug\Polimorfizm.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Polimorfizm\Polimorfizm\obj\Debug\Polimorfizm.pdb

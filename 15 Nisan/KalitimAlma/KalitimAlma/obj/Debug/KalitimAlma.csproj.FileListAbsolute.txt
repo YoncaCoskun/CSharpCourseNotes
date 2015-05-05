@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\bin\Debug\KalitimAlma.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\bin\Debug\KalitimAlma.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\bin\Debug\KalitimAlma.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\KalitimAlma\KalitimAlma\obj\Debug\KalitimAlma.pdb

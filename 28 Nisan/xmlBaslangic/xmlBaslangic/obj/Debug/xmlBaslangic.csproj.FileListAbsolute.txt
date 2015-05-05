@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\bin\Debug\xmlBaslangic.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\bin\Debug\xmlBaslangic.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\bin\Debug\xmlBaslangic.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\xmlBaslangic\xmlBaslangic\obj\Debug\xmlBaslangic.Form2.resources

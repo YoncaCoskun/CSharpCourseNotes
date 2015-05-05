@@ -1,0 +1,14 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET-SQL Connect.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET-SQL Connect.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Documents\Visual Studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form2.resources
+C:\Users\ogrenci\Documents\Visual Studio 2013\Projects\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form3.resources
+C:\Users\Yonca\Desktop\C#\21 Nisan\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\Yonca\Desktop\C#\21 Nisan\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\Yonca\Desktop\C#\21 Nisan\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb

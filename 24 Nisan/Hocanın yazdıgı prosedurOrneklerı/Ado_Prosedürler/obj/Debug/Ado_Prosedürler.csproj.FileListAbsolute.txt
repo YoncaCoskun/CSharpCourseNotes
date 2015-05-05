@@ -1,0 +1,22 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form2.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Ado_Prosedürler\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form3.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.exe.config
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.exe
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.pdb
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.exe
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\bin\Debug\Ado_Prosedürler.pdb
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form1.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form2.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Form3.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.Properties.Resources.resources
+C:\Users\Yonca\Desktop\C#\24 Nisan\Hocanın yazdıgı prosedurOrneklerı\Ado_Prosedürler\obj\Debug\Ado_Prosedürler.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\bin\Debug\ADODevam.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\bin\Debug\ADODevam.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\bin\Debug\ADODevam.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.Form2.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.Form3.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADODevam\ADODevam\obj\Debug\ADODevam.Form4.resources
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADODevam\ADODevam\bin\Debug\ADODevam.exe.config
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADODevam\ADODevam\obj\Debug\ADODevam.exe
+C:\Users\Yonca\Desktop\C#\22 Nisan\ADODevam\ADODevam\obj\Debug\ADODevam.pdb

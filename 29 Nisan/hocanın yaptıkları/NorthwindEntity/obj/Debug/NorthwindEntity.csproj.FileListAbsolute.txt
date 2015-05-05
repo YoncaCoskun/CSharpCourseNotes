@@ -1,0 +1,4 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindEntity\bin\Debug\NorthwindEntity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindEntity\obj\Debug\NorthwindEntity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Katmanlar\NorthwindEntity\obj\Debug\NorthwindEntity.pdb

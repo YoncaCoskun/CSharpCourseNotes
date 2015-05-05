@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--ögrenci adı soyadi ayrı ayrı tutulacak,velisine ait ad soyad telefon dersleri tutulacak-->
+
+<Ogrenciler>
+  <Ogrenci>
+    <OgrenciAdi>Ahmet</OgrenciAdi>
+    <OgrenciSoyadi>Kural</OgrenciSoyadi>
+
+    <Veli>
+      <VeliAdi>Mustafa</VeliAdi>
+      <VeliSoyadi>Kural</VeliSoyadi>
+      <VeliTelefon>123456</VeliTelefon>
+    </Veli>
+
+    <Dersleri>
+      <Ders>Matematik</Ders>
+      <Ders>Kimya</Ders>
+      <Ders>Biyoloji</Ders>
+    </Dersleri>
+
+    <EgitmenYorumu>
+      <![CDATA[ hic umutlu degilim neredeyse puani < 0 bu sebeple dersten geçemez.]]> <!--ozel karakter yanı < kullandıgımız ıcın bu tarz ozel ıfadelerı cdata ıcınde yazmalıyız yoksa kod hata veriyor.-->
+     
+    </EgitmenYorumu>
+
+  </Ogrenci>
+
+
+</Ogrenciler>

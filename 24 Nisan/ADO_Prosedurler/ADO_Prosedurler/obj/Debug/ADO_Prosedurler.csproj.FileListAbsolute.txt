@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\bin\Debug\ADO_Prosedurler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\bin\Debug\ADO_Prosedurler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\bin\Debug\ADO_Prosedurler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.pdb
+C:\Users\Yonca\Desktop\C#\24 Nisan\ADO_Prosedurler\ADO_Prosedurler\bin\Debug\ADO_Prosedurler.exe.config
+C:\Users\Yonca\Desktop\C#\24 Nisan\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.exe
+C:\Users\Yonca\Desktop\C#\24 Nisan\ADO_Prosedurler\ADO_Prosedurler\obj\Debug\ADO_Prosedurler.pdb

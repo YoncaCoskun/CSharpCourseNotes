@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.pdb

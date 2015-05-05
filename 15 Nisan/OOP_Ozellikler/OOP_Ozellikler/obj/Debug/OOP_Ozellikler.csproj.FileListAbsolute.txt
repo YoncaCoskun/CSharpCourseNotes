@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\bin\Debug\OOP_Ozellikler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\bin\Debug\OOP_Ozellikler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\bin\Debug\OOP_Ozellikler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OOP_Ozellikler\OOP_Ozellikler\obj\Debug\OOP_Ozellikler.pdb

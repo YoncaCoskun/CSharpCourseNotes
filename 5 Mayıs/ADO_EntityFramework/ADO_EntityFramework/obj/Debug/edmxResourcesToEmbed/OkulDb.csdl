@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="OkulDb" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="OkulDbContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Veliler" EntityType="OkulDb.Veli" />
+  </EntityContainer>
+  <EntityType Name="Veli">
+    <Key>
+      <PropertyRef Name="VeliId" />
+    </Key>
+    <Property Name="VeliId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VeliAdi" Type="String" Nullable="false" Unicode="false" MaxLength="50" />
+    <Property Name="VeliSoyadi" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>
