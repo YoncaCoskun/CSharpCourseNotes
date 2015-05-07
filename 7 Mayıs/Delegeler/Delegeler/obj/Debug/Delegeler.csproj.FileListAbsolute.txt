@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\bin\Debug\Delegeler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\bin\Debug\Delegeler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\bin\Debug\Delegeler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Delegeler\Delegeler\obj\Debug\Delegeler.Form2.resources

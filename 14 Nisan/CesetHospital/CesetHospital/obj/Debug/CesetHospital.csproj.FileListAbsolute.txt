@@ -1,0 +1,17 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\bin\Debug\CesetHospital.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\bin\Debug\CesetHospital.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\bin\Debug\CesetHospital.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CesetHospital\CesetHospital\obj\Debug\CesetHospital.pdb
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\bin\Debug\CesetHospital.exe.config
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.exe
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.pdb
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.csprojResolveAssemblyReference.cache
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.EmergencyHospital.resources
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.Form1.resources
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.Properties.Resources.resources
+C:\Users\Yonca\Desktop\14 Nisan\CesetHospital\CesetHospital\obj\Debug\CesetHospital.csproj.GenerateResource.Cache

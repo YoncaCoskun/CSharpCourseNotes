@@ -1,0 +1,3 @@
+C:\Users\Yonca\Desktop\10NisanOlaylar\bin\Debug\10NisanOlaylar.exe.config
+C:\Users\Yonca\Desktop\10NisanOlaylar\obj\Debug\10NisanOlaylar.exe
+C:\Users\Yonca\Desktop\10NisanOlaylar\obj\Debug\10NisanOlaylar.pdb
