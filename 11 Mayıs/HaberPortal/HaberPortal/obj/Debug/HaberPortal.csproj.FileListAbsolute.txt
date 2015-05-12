@@ -1,0 +1,15 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\HaberPortal.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\HaberPortal.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\HaberPortal.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.frmKategori.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\HaberPortal\HaberPortal\obj\Debug\HaberPortal.Migrations.InitialCreate.resources

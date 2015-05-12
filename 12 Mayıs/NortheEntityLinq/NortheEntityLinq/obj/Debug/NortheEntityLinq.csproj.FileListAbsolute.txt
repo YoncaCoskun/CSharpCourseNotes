@@ -1,0 +1,13 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\NortheEntityLinq.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\NortheEntityLinq.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\NortheEntityLinq.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\obj\Debug\NortheEntityLinq.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\NortheEntityLinq\NortheEntityLinq\bin\Debug\EntityFramework.SqlServer.xml

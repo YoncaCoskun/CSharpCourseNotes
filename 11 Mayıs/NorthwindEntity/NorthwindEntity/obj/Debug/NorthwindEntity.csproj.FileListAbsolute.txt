@@ -1,0 +1,16 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\NorthwindEntity.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\NorthwindEntity.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\NorthwindEntity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.pdb
+\\psf\Home\Desktop\11 Mayıs\NorthwindEntity\NorthwindEntity\bin\Debug\NorthwindEntity.exe.config
+\\psf\Home\Desktop\11 Mayıs\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.exe
+\\psf\Home\Desktop\11 Mayıs\NorthwindEntity\NorthwindEntity\obj\Debug\NorthwindEntity.pdb

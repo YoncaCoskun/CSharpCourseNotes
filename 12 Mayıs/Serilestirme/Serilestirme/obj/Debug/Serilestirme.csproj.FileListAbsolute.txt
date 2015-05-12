@@ -1,0 +1,11 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\bin\Debug\Serilestirme.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\bin\Debug\Serilestirme.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\bin\Debug\Serilestirme.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.Form2.resources
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Serilestirme\Serilestirme\obj\Debug\Serilestirme.Form3.resources
