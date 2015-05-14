@@ -1,0 +1,11 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\bin\Debug\XML_JSON.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\bin\Debug\XML_JSON.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\bin\Debug\XML_JSON.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\obj\Debug\XML_JSON.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\XML_JSON_Serialize\XML_JSON\bin\Debug\Newtonsoft.Json.xml

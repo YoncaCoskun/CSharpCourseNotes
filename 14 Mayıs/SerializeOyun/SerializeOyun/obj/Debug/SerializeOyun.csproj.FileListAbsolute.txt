@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\bin\Debug\SerializeOyun.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\bin\Debug\SerializeOyun.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\bin\Debug\SerializeOyun.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.MenuForm.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.SeffafForm.resources
+C:\Users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\SerializeOyun\SerializeOyun\obj\Debug\SerializeOyun.OyunKayitForm.resources

@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\bin\Debug\ClassSerilizasyon.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\bin\Debug\ClassSerilizasyon.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\bin\Debug\ClassSerilizasyon.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\obj\Debug\ClassSerilizasyon.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\ClassSerilizasyon\ClassSerilizasyon\bin\Debug\Faker.dll

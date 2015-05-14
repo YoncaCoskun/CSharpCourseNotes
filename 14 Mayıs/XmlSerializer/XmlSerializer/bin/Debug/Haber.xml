@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<News xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" NewsId="1">
+  <NewsTitle>Adam kopegi isirdi</NewsTitle>
+  <HaberIcerik>Adamın kuduz olup olmadıgı arastırılıyor.</HaberIcerik>
+  <HaberTarihi>2015-05-11T17:17:58.084609+03:00</HaberTarihi>
+</News>

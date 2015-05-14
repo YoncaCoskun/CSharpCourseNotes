@@ -1,0 +1,11 @@
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\bin\Debug\FoursquareAPIGetVenues.exe.config
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\bin\Debug\FoursquareAPIGetVenues.exe
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\bin\Debug\FoursquareAPIGetVenues.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.csprojResolveAssemblyReference.cache
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.Form1.resources
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.Properties.Resources.resources
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.csproj.GenerateResource.Cache
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.exe
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\obj\Debug\FoursquareAPIGetVenues.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\bin\Debug\Newtonsoft.Json.dll
+c:\users\mesut\documents\visual studio 2013\Projects\XML_JSON_Serialize\FoursquareAPIGetVenues\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_JSON", "XML_JSON\XML_JSON.csproj", "{9FDF661C-9527-48AA-A6F5-85683FF37368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoursquareAPIGetVenues", "FoursquareAPIGetVenues\FoursquareAPIGetVenues.csproj", "{47DC85E8-32A3-4BED-B821-5E8F06B32D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDF661C-9527-48AA-A6F5-85683FF37368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDF661C-9527-48AA-A6F5-85683FF37368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDF661C-9527-48AA-A6F5-85683FF37368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDF661C-9527-48AA-A6F5-85683FF37368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DC85E8-32A3-4BED-B821-5E8F06B32D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DC85E8-32A3-4BED-B821-5E8F06B32D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DC85E8-32A3-4BED-B821-5E8F06B32D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DC85E8-32A3-4BED-B821-5E8F06B32D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

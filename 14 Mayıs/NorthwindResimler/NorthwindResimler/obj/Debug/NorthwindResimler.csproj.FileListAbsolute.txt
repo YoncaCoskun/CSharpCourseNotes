@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\bin\Debug\NorthwindResimler.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\bin\Debug\NorthwindResimler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\bin\Debug\NorthwindResimler.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\NorthwindResimler\NorthwindResimler\obj\Debug\NorthwindResimler.pdb

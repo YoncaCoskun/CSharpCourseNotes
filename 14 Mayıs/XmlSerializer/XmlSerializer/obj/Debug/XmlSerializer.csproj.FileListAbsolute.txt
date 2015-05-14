@@ -1,0 +1,1 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\XmlSerializer\XmlSerializer\bin\Debug\XmlSerializer.exe.config

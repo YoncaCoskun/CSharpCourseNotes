@@ -1,0 +1,1 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\WCF_Baslangic\WCF_Baslangic\bin\Debug\WCF_Baslangic.exe.config
