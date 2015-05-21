@@ -1,0 +1,5 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanli\cokKatmanli.Entity\bin\Debug\cokKatmanli.Entity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanli\cokKatmanli.Entity\bin\Debug\cokKatmanli.Entity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanli\cokKatmanli.Entity\obj\Debug\cokKatmanli.Entity.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanli\cokKatmanli.Entity\obj\Debug\cokKatmanli.Entity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanli\cokKatmanli.Entity\obj\Debug\cokKatmanli.Entity.pdb

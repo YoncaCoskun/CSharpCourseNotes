@@ -1,0 +1,30 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmCalisanlar.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmMain.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.pdb
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.exe.config
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.exe
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.pdb
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.exe
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\BasitUygulama.pdb
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmCalisanlar.resources
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmKategoriler.resources
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmMain.resources
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.Properties.Resources.resources
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\21 Mayıs\BasitUygulama\BasitUygulama\obj\Debug\BasitUygulama.frmUrunler.resources

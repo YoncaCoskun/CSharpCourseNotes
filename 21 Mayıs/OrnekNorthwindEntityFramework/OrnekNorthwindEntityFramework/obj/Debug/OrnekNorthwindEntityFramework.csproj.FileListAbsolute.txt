@@ -1,0 +1,17 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\OrnekNorthwindEntityFramework.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\OrnekNorthwindEntityFramework.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\OrnekNorthwindEntityFramework.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.Form2.resources
+C:\Users\ogrenci\Desktop\21 Mayıs\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\bin\Debug\OrnekNorthwindEntityFramework.exe.config
+C:\Users\ogrenci\Desktop\21 Mayıs\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.exe
+C:\Users\ogrenci\Desktop\21 Mayıs\OrnekNorthwindEntityFramework\OrnekNorthwindEntityFramework\obj\Debug\OrnekNorthwindEntityFramework.pdb
