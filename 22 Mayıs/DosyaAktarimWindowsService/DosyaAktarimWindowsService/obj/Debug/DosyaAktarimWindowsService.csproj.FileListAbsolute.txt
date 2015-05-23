@@ -1,0 +1,10 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\bin\Debug\DosyaAktarimWindowsService.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\bin\Debug\DosyaAktarimWindowsService.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\bin\Debug\DosyaAktarimWindowsService.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.ProjectInstaller.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\22 Mayıs\DosyaAktarimWindowsService\DosyaAktarimWindowsService\bin\Debug\DosyaAktarimWindowsService.exe.config
+C:\Users\ogrenci\Desktop\22 Mayıs\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.exe
+C:\Users\ogrenci\Desktop\22 Mayıs\DosyaAktarimWindowsService\DosyaAktarimWindowsService\obj\Debug\DosyaAktarimWindowsService.pdb

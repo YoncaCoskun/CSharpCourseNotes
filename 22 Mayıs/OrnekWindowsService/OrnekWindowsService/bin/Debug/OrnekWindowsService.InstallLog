@@ -1,0 +1,92 @@
+﻿'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici hizmeti yükleniyor...
+dosyaYazici hizmeti başarıyla yüklendi.
+Application günlüğünde dosyaYazici EventLog kaynağı oluşturuluyor...
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici hizmeti yükleniyor...
+Application günlüğünde dosyaYazici EventLog kaynağı oluşturuluyor...
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\ogrenci\Documents\Visual Studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\Visual Studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\Visual Studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici hizmeti yükleniyor...
+Application günlüğünde dosyaYazici EventLog kaynağı oluşturuluyor...
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.InstallLog
+   assemblypath = C:\Users\ogrenci\Documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+dosyaYazici EventLog kaynağı kaldırılıyor.
+dosyaYazici hizmeti sistemden kaldırılıyor...
+dosyaYazici hizmeti sistemden başarıyla kaldırıldı.

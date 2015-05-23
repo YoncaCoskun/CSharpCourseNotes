@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\bin\Debug\OrnekWindowsService.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.Service1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\OrnekWindowsService\OrnekWindowsService\obj\Debug\OrnekWindowsService.ProjectInstaller.resources
