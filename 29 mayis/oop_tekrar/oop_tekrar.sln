@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{446B9FBE-F178-4D2B-88A5-F84446CAF842}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_oop_constructor", "oop_constructor\1_oop_constructor.csproj", "{582E9D27-6A76-4317-A14A-8457EAA61E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ornek_static", "2_ornek_static\2_ornek_static.csproj", "{78A1F99F-A61D-481D-893E-2CAC079AD880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_kalitim_and_polymorphism", "oop_kalitim\oop_kalitim_and_polymorphism.csproj", "{39BA89CF-7C9B-4BED-AA8D-9B6D7F2FE0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582E9D27-6A76-4317-A14A-8457EAA61E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582E9D27-6A76-4317-A14A-8457EAA61E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582E9D27-6A76-4317-A14A-8457EAA61E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582E9D27-6A76-4317-A14A-8457EAA61E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A1F99F-A61D-481D-893E-2CAC079AD880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A1F99F-A61D-481D-893E-2CAC079AD880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A1F99F-A61D-481D-893E-2CAC079AD880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A1F99F-A61D-481D-893E-2CAC079AD880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BA89CF-7C9B-4BED-AA8D-9B6D7F2FE0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BA89CF-7C9B-4BED-AA8D-9B6D7F2FE0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BA89CF-7C9B-4BED-AA8D-9B6D7F2FE0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BA89CF-7C9B-4BED-AA8D-9B6D7F2FE0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

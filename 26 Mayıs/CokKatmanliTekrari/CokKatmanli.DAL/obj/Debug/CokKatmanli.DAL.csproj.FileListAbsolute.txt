@@ -1,0 +1,8 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\bin\Debug\CokKatmanli.DAL.dll.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\bin\Debug\CokKatmanli.DAL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\bin\Debug\CokKatmanli.DAL.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\bin\Debug\CokKatmanli.Entity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\bin\Debug\CokKatmanli.Entity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\obj\Debug\CokKatmanli.DAL.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\obj\Debug\CokKatmanli.DAL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.DAL\obj\Debug\CokKatmanli.DAL.pdb

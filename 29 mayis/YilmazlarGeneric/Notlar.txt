@@ -1,0 +1,19 @@
+Code-First adýmlar
+
+Entityler yazýlýr
+Nuget ile EntityFramework eklenir. PackageManagerConsole (PMC): Install-Package EntityFramework
+Context yazýlýr
+ConnectionString' ler eklenir.
+PMC: Enable-Migrations. Data katmaný seçildi. Migrations folderý eklendi. içerisindeki Configuration class' ýnda AutomaticMigrationsEnabled = true yapýldý.
+
+Add-Migration Baslangic
+Update-Database
+
+sonrasýndaki her deðiþiklikte (yeni Entity oluþturma, mevcut entity' ye kolon ekleme gibi) :
+Add-Migration farkliBirIsim
+Update-Database
+
+
+içerisinde veri olan bir entity (tablo) silinirken Update-Database komutu hata verir. Update-Database -Force yazarak, tablo silme iþlemi zorlanmýþ olur.
+
+UI projesine entity framework' ü ekledik ve app.config' ine Data' daki bilgileri ekledik

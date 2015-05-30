@@ -1,0 +1,22 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Business.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Business.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Data.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Domain.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\EntityFramework.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Data.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Domain.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\bin\Debug\EntityFramework.xml
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Business.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Business.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Data.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Domain.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Data.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\Yilmazlar.Domain.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Business\obj\Debug\Yilmazlar.Business.pdb

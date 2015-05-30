@@ -1,0 +1,18 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.UI.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.UI.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.UI.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.BLL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.Entity.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.DAL.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.BLL.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.Entity.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.DAL.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.Form1.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.pdb
+\\psf\Home\Desktop\26 Mayıs\CokKatmanliTekrari\CokKatmanli.UI\bin\Debug\CokKatmanli.UI.exe.config
+\\psf\Home\Desktop\26 Mayıs\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.exe
+\\psf\Home\Desktop\26 Mayıs\CokKatmanliTekrari\CokKatmanli.UI\obj\Debug\CokKatmanli.UI.pdb

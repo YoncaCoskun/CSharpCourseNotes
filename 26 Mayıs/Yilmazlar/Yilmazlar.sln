@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-DOMAIN", "0-DOMAIN", "{F1443F67-0A30-481D-84E1-30AA299B4E95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-DATA", "1-DATA", "{68DFB1BE-2732-4994-8560-BD9D4AA21E88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-BUSINESS", "2-BUSINESS", "{8D28EBBA-07BC-4398-9768-46EF251B33BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-PRESENTATION", "3-PRESENTATION", "{9DBAD19D-CC5B-43B9-9DCA-B8825A4DDF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yilmazlar.Domain", "Yilmazlar.Domain\Yilmazlar.Domain.csproj", "{901BA5BA-E7D3-43D1-A20C-6A61D30F3940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yilmazlar.Data", "Yilmazlar.Data\Yilmazlar.Data.csproj", "{DA8D674D-D973-49CD-A547-9C3A3E3332D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yilmazlar.Business", "Yilmazlar.Business\Yilmazlar.Business.csproj", "{3A0ACC05-9598-46E2-9161-DFC9752C9F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901BA5BA-E7D3-43D1-A20C-6A61D30F3940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901BA5BA-E7D3-43D1-A20C-6A61D30F3940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901BA5BA-E7D3-43D1-A20C-6A61D30F3940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901BA5BA-E7D3-43D1-A20C-6A61D30F3940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8D674D-D973-49CD-A547-9C3A3E3332D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8D674D-D973-49CD-A547-9C3A3E3332D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8D674D-D973-49CD-A547-9C3A3E3332D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8D674D-D973-49CD-A547-9C3A3E3332D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0ACC05-9598-46E2-9161-DFC9752C9F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0ACC05-9598-46E2-9161-DFC9752C9F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0ACC05-9598-46E2-9161-DFC9752C9F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0ACC05-9598-46E2-9161-DFC9752C9F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{901BA5BA-E7D3-43D1-A20C-6A61D30F3940} = {F1443F67-0A30-481D-84E1-30AA299B4E95}
+		{DA8D674D-D973-49CD-A547-9C3A3E3332D1} = {68DFB1BE-2732-4994-8560-BD9D4AA21E88}
+		{3A0ACC05-9598-46E2-9161-DFC9752C9F38} = {8D28EBBA-07BC-4398-9768-46EF251B33BB}
+	EndGlobalSection
+EndGlobal

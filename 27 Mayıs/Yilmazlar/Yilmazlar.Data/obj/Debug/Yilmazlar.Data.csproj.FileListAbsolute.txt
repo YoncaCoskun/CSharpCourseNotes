@@ -1,0 +1,24 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.dll.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.dll
+c:\users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Domain.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Domain.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.dll.config
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Data.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Domain.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\Yilmazlar.Domain.pdb
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.dll
+\\psf\Home\Desktop\27 Mayıs\Yilmazlar\Yilmazlar.Data\obj\Debug\Yilmazlar.Data.pdb
