@@ -1,0 +1,6 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\bin\Debug\oop_constructor.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\bin\Debug\oop_constructor.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\bin\Debug\oop_constructor.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\obj\Debug\oop_constructor.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\obj\Debug\oop_constructor.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_constructor\obj\Debug\1_oop_constructor.csprojResolveAssemblyReference.cache

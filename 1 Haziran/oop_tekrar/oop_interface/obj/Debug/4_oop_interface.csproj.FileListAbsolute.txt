@@ -1,0 +1,12 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\bin\Debug\oop_interface.exe.config
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\bin\Debug\oop_interface.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\bin\Debug\oop_interface.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\obj\Debug\4_oop_interface.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\obj\Debug\oop_interface.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_interface\obj\Debug\oop_interface.pdb
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\bin\Debug\oop_interface.exe.config
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\obj\Debug\oop_interface.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\obj\Debug\oop_interface.pdb
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\obj\Debug\4_oop_interface.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\bin\Debug\oop_interface.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_interface\bin\Debug\oop_interface.pdb

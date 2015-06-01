@@ -1,0 +1,9 @@
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\bin\Debug\oop_counterStrike.exe.config
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.Form1.resources
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\bin\Debug\oop_counterStrike.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\bin\Debug\oop_counterStrike.pdb
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_counterStrike\obj\Debug\oop_counterStrike.pdb

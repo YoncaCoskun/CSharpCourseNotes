@@ -1,0 +1,5 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.pdb

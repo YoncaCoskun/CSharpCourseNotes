@@ -1,0 +1,10 @@
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\3_oop_kalitim_and_polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.pdb
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_kalitim\bin\Debug\oop_kalitim.pdb
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_kalitim\obj\Debug\3_oop_kalitim_and_polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.exe
+C:\Users\ogrenci\Desktop\oop_tekrar\oop_kalitim\obj\Debug\oop_kalitim.pdb

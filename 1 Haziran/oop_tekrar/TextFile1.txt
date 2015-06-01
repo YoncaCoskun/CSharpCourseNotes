@@ -1,0 +1,7 @@
+OOP Karakteristikleri
+	Encapsulation (Kapsülleme):
+	Inheritance (Kalýtým):
+	Polymorphism (Çok Biçimlilik): 
+
+
+class: temel yapý taþý
