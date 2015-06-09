@@ -1,0 +1,12 @@
+LINQ (Language Integrated Query):
+Entity Framework 6:
+
+Database-First
+Model-First
+Code-First
+
+
+
+--------------------------
+Hibernate
+NHibernate 

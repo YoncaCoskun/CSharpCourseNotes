@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ogrenci\documents\visual studio 2013\Projects\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

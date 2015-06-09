@@ -1,0 +1,27 @@
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBilgeAnaokuluUygulama.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCalisanGiris.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciGiris.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciKayıt.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciListesi.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ogrenci\documents\visual studio 2013\Projects\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmBilgeAnaokuluUygulama.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCalisanGiris.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciGiris.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciKayıt.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOgrenciListesi.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\2 Haziran\BilgeAnaokuluProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCalisanKayit.resources

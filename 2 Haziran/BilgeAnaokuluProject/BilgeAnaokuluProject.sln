@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOMAIN", "DOMAIN", "{CF1593E6-AD64-4D23-915C-2866AF13AB1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DATA", "DATA", "{265FC0C4-13C3-4D81-AB26-22AD313AEE4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BUSINESS", "BUSINESS", "{E3CD9EBF-E468-41F1-881B-293E632564B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PRESENTATION", "PRESENTATION", "{BFB0670B-86D6-48D8-AA85-FA5E3E59211A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{756378F2-FEA9-45F2-9C3B-BC62151BE11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756378F2-FEA9-45F2-9C3B-BC62151BE11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756378F2-FEA9-45F2-9C3B-BC62151BE11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756378F2-FEA9-45F2-9C3B-BC62151BE11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756378F2-FEA9-45F2-9C3B-BC62151BE11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{756378F2-FEA9-45F2-9C3B-BC62151BE11B} = {BFB0670B-86D6-48D8-AA85-FA5E3E59211A}
+	EndGlobalSection
+EndGlobal
